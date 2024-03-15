@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:(•◡•)project-name(•◡•)/sdk/backend_service.dart';
+import 'package:flutter_template/sdk/backend_service.dart';
 
 void main() {
   runApp(MyApp());
