@@ -16,7 +16,7 @@ frontend:
     language: dart
     path: lib/sdk
   # The directory that will be published to the CDN. It is relative to the `path` directory.
-  publish: public/web
+  publish: build/web
   # Scripts are running in the specified `path` directory.
   scripts:
     # List of scripts that build your frontend before deployment. It should populate the specified `publish` directory.
